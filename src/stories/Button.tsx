@@ -35,6 +35,7 @@ export const Button = ({
       {...props}
     >
       {label}
+      <span>this is a ui update test</span>
     </button>
   );
 };
